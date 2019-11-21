@@ -1,5 +1,5 @@
 <footer class="container-fluid text-center">
-  <p>@Codeenable.com</p>
+  <p>footer</p>
 </footer>
 
 </body>
